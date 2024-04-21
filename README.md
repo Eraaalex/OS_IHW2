@@ -43,11 +43,11 @@
 
 Без прерывания:
 
-![img.png](img.png)
+![img.png](img/img.png)
 
 С прерыванием:
 
-![img_1.png](img_1.png)
+![img_1.png](img/img_1.png)
 
 ## 6 - 7 баллов
 
@@ -66,11 +66,11 @@
 
 Без прерывания:
 
-![img_2.png](img_2.png)
+![img_2.png](img/img_2.png)
 
 С прерыванием:
 
-![img_3.png](img_3.png)
+![img_3.png](img/img_3.png)
 
 
 
