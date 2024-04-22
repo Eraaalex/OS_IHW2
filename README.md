@@ -49,6 +49,12 @@
 
 ![img.png](img/img.png)
 
+![img.png](img/img.png)
+
+С прерыванием:
+
+![img_1.png](img/img_1.png)
+
 ## 6 - 7 баллов
 
 Доступ к массиву регулируется через __неименованные POSIX семафоры__, 
@@ -66,11 +72,19 @@
 
 Без прерывания:
 
+<<<<<<< HEAD
 ![img_3.png](img/img_3.png)
 
 С прерыванием:
 
 ![img_2.png](img/img_2.png)
+=======
+![img_2.png](img/img_2.png)
+
+С прерыванием:
+
+![img_3.png](img/img_3.png)
+
 
 
 
