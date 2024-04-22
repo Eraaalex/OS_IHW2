@@ -43,11 +43,19 @@
 
 Без прерывания:
 
+<<<<<<< HEAD
 ![img_1.png](img/img_1.png)
 
 С прерыванием:
 
 ![img.png](img/img.png)
+=======
+![img.png](img/img.png)
+
+С прерыванием:
+
+![img_1.png](img/img_1.png)
+>>>>>>> ded34baef296255908e3f9978bbdc6be847751a2
 
 ![img.png](img/img.png)
 
@@ -73,18 +81,30 @@
 Без прерывания:
 
 <<<<<<< HEAD
-![img_3.png](img/img_3.png)
-
-С прерыванием:
-
-![img_2.png](img/img_2.png)
+<<<<<<< HEAD
 =======
+<<<<<<< HEAD
+>>>>>>> 438f1d0e72d2ee0a88e8b4d417b1d7f5bc28af88
+![img_3.png](img/img_3.png)
+
+С прерыванием:
+
+![img_2.png](img/img_2.png)
+<<<<<<< HEAD
+=======
+=======
+=======
+>>>>>>> 438f1d0e72d2ee0a88e8b4d417b1d7f5bc28af88
 ![img_2.png](img/img_2.png)
 
 С прерыванием:
 
 ![img_3.png](img/img_3.png)
+<<<<<<< HEAD
 
+=======
+>>>>>>> ded34baef296255908e3f9978bbdc6be847751a2
+>>>>>>> 438f1d0e72d2ee0a88e8b4d417b1d7f5bc28af88
 
 
 
