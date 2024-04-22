@@ -43,11 +43,19 @@
 
 Без прерывания:
 
+<<<<<<< HEAD
 ![img_1.png](img/img_1.png)
 
 С прерыванием:
 
 ![img.png](img/img.png)
+=======
+![img.png](img/img.png)
+
+С прерыванием:
+
+![img_1.png](img/img_1.png)
+>>>>>>> ded34baef296255908e3f9978bbdc6be847751a2
 
 ## 6 - 7 баллов
 
@@ -66,11 +74,19 @@
 
 Без прерывания:
 
+<<<<<<< HEAD
 ![img_3.png](img/img_3.png)
 
 С прерыванием:
 
 ![img_2.png](img/img_2.png)
+=======
+![img_2.png](img/img_2.png)
+
+С прерыванием:
+
+![img_3.png](img/img_3.png)
+>>>>>>> ded34baef296255908e3f9978bbdc6be847751a2
 
 
 
